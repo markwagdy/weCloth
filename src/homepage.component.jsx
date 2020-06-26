@@ -6,7 +6,7 @@ const HomePage=()=>
     <div className='directory-menu'>
         <div className='menu-item'>
         <div className='content'>
-            <div className='title'><h1>HATS</h1></div>
+            <div className='title'><h1>HAT</h1></div>
             <div className='subtitle'><span>SHOP NOW</span></div>
         </div>
         </div>
